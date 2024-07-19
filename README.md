@@ -1,2 +1,7 @@
-# cloud-store
-Cloud disk agent
+# 基于 nuxt3 + vite + ts 网盘服务
+
+## 1.0 版本只支持 百度网盘 目前提供生成目录树图片的功能
+
+需要 在 .env 里 配置 你网盘服务应用的签名 。
+
+线上体验地址：http://godboxs.cn
